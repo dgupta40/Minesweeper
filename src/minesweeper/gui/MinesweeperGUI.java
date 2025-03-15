@@ -1,10 +1,10 @@
 package minesweeper.gui;
 
-import minesweeper.logic.Board;
-import minesweeper.logic.Cell;
-import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import javax.swing.*;
+import minesweeper.logic.Board;
+import minesweeper.logic.Cell;
 
 /**
  * Main GUI window for Minesweeper.
