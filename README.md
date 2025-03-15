@@ -49,7 +49,7 @@ Minesweeper is a grid-based puzzle game where the player’s goal is to reveal a
 
 ## Code Explanation
 
-## Code Explanation
+
 
 ### Game Logic
 
